@@ -39,7 +39,7 @@ Below is a screenshot of the successful pipeline orchestration:
 
 ![ADF Pipeline Run](https://github.com/user-attachments/assets/be1ee699-cf05-44ca-8bfe-512faa709bf2)
 
-![Databricks Workflow](images/databricks_workflow.png)
+![Databricks Workflow](https://github.com/user-attachments/assets/84497cd7-05b6-424f-a6ec-b7c9e3c35410)
 
 ## 📈 Visualizations & Insights
 The final data is visualized to show content trends and distribution.
