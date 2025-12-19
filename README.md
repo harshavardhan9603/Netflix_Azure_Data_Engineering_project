@@ -54,5 +54,4 @@ The final data is visualized to show content trends and distribution.
 5. **Dashboard:** Connect Power BI to the Databricks SQL Warehouse.
 
 ---
-**Acknowledgment:** This project was built following the guidance of **Ansh Lamba's** Azure Data Engineering Masterclass.
 
