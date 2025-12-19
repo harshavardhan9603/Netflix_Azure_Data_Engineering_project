@@ -37,7 +37,7 @@ The project follows a modern **Lakehouse Architecture**:
 ## 📊 Pipeline Monitoring
 Below is a screenshot of the successful pipeline orchestration:
 
-![ADF Pipeline Run](images/adf_run.png)
+![ADF Pipeline Run](https://github.com/user-attachments/assets/be1ee699-cf05-44ca-8bfe-512faa709bf2)
 
 ![Databricks Workflow](images/databricks_workflow.png)
 
