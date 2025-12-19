@@ -1,7 +1,7 @@
 # Netflix End-to-End Data Engineering Project (Azure)
 
 ## 📺 Project Overview
-This project is a production-level data engineering pipeline built on **Microsoft Azure**. It processes Netflix movie and TV show data through a **Medallion Architecture**, transforming raw data into business-ready insights.
+This project is a production-level data engineering pipeline built on **Microsoft Azure**. It processes Netflix movie and TV show data through a **Medallion Architecture**,**Dynamic Parameterization**,**Delta Live Tables (DLT)** transforming raw data into business-ready insights.
 
 ## 🏗️ Architecture
 The project follows a modern **Lakehouse Architecture**:
