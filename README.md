@@ -6,7 +6,7 @@ This project is a production-level data engineering pipeline built on **Microsof
 ## 🏗️ Architecture
 The project follows a modern **Lakehouse Architecture**:
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](https://github.com/user-attachments/assets/1fb3572b-0f5e-473b-a754-77f0a2be862e)
 
 1. **Ingestion:** Data is ingested from GitHub using **Azure Data Factory (ADF)**.
 2. **Raw Storage (Bronze):** Incremental ingestion into **ADLS Gen2** using Databricks **Auto Loader**.
